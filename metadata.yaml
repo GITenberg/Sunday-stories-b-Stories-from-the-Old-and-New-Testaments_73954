@@ -1,0 +1,26 @@
+_repo: Sunday-stories-b-Stories-from-the-Old-and-New-Testaments_73954
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shaw, Catharine
+    gutenberg_agent_id: '38947'
+    url: http://www.gutenberg.org/2009/agents/38947
+description: ''
+gutenberg_issued: '2024-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73954'
+language: en
+pgterms:marc905: 20240626091735shaw
+pgterms:marc906: '1925'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bJohn F. Shaw & Co., Ltd., $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible stories, English -- Juvenile literature'
+- !lcc 'BS'
+- GITenberg
+title: 'Sunday stories : $b Stories from the Old and New Testaments'
+url: http://www.gutenberg.org/ebooks/73954
